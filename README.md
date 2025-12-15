@@ -1,6 +1,6 @@
 # **📊 Relatório da Atividade – Dashboard Financeiro da Quitanda**
 
-link:https://imers-o-dados-com-python-c2hhpjanno5rqhp8gzxbnd.streamlit.app/
+link:(https://dashboardbomgosto-lfdqcptuenhrjx6kw3c8fr.streamlit.app/)
 
 ## 📊 **CONTEXTO**
 
@@ -50,11 +50,11 @@ Mais do que um painel informativo, o dashboard funciona como uma ferramenta de a
 
 - Implementação de novas funcionalidades:
 
-1- 📈 Gráfico de tendência acumulada.
-
-2- 📥 Botão de exportação de dados filtrados.
-
-3- 📝 Resumo automático dos principais indicadores.
+    1- 📈 Gráfico de tendência acumulada.
+    
+    2- 📥 Botão de exportação de dados filtrados.
+    
+    3- 📝 Resumo automático dos principais indicadores.
 
 - Validação e testes para garantir consistência dos resultados.
 
