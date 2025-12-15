@@ -8,8 +8,30 @@ st.set_page_config(
     page_icon="💰",
     layout="wide",
 )
+
 # --- Carregamento dos dados ---
 df = pd.read_csv("dados_quitanda.csv")
+
+# --- Conversão das colunas numéricas ---
+# Remove possíveis símbolos de moeda e vírgulas, depois converte para float
+df['receita'] = (
+    df['receita']
+    .astype(str)
+    .str.replace("R\$", "", regex=True)
+    .str.replace(",", ".")
+    .str.strip()
+)
+df['despesa'] = (
+    df['despesa']
+    .astype(str)
+    .str.replace("R\$", "", regex=True)
+    .str.replace(",", ".")
+    .str.strip()
+)
+
+# Converte para numérico (float), valores inválidos viram NaN
+df['receita'] = pd.to_numeric(df['receita'], errors='coerce')
+df['despesa'] = pd.to_numeric(df['despesa'], errors='coerce')
 
 # --- Ajuste da ordem dos meses ---
 ordem_meses = [
@@ -70,6 +92,7 @@ col3.metric("Lucro Líquido", f"R${lucro_liquido:,.2f}")
 col4.metric("Produto mais vendido", produto_mais_vendido)
 
 st.markdown("---")
+
 
 # --- Gráficos ---
 st.subheader("Gráficos Financeiros")

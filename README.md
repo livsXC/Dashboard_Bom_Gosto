@@ -1,6 +1,7 @@
 # **📊 Relatório da Atividade – Dashboard Financeiro da Quitanda**
 
-link:(https://dashboardbomgosto-lfdqcptuenhrjx6kw3c8fr.streamlit.app/)
+
+link:https://dashboardbomgosto-lfdqcptuenhrjx6kw3c8fr.streamlit.app/
 
 ## 📊 **CONTEXTO**
 
