@@ -1,0 +1,189 @@
+data,ano,mes,semana,produto,categoria,quantidade,receita,despesa,forma_pagamento
+2025-01-05,2025,Janeiro,1,Banana,Fruta,20,1200.00,0.00,PIX
+2025-01-05,2025,Janeiro,1,Arroz,Mercadoria,10,2000.00,0.00,Cartão
+2025-01-05,2025,Janeiro,1,Couve,Verdura,15,900.00,0.00,Dinheiro
+2025-01-05,2025,Janeiro,1,Batata,Legume,25,1300.00,0.00,PIX
+2025-01-12,2025,Janeiro,2,Feijão,Mercadoria,8,1500.00,0.00,Dinheiro
+2025-01-12,2025,Janeiro,2,Espinafre,Verdura,12,800.00,0.00,Cartão
+2025-01-12,2025,Janeiro,2,Abobrinha,Legume,20,1100.00,0.00,PIX
+2025-01-19,2025,Janeiro,3,Refrigerante,Bebida,15,1000.00,0.00,PIX
+2025-01-19,2025,Janeiro,3,Suco Natural,Bebida,18,1200.00,0.00,Cartão
+2025-01-19,2025,Janeiro,3,Rúcula,Verdura,10,700.00,0.00,Dinheiro
+2025-01-19,2025,Janeiro,3,Pepino,Legume,22,1000.00,0.00,PIX
+2025-01-26,2025,Janeiro,4,Pé de Moleque,Doce,30,800.00,0.00,Cartão
+2025-01-26,2025,Janeiro,4,Chá Gelado,Bebida,20,900.00,0.00,PIX
+2025-01-26,2025,Janeiro,4,Repolho,Verdura,18,950.00,0.00,Dinheiro
+2025-01-26,2025,Janeiro,4,Beterraba,Legume,15,850.00,0.00,Cartão
+2025-01-31,2025,Janeiro,5,Aluguel,Despesa,,0.00,1800.00,Transferência
+2025-01-31,2025,Janeiro,5,Água,Despesa,,0.00,220.00,PIX
+2025-01-31,2025,Janeiro,5,Energia,Despesa,,0.00,450.00,PIX
+2025-01-31,2025,Janeiro,5,Internet,Despesa,,0.00,150.00,PIX
+2025-01-31,2025,Janeiro,5,Salários,Despesa,,0.00,2800.00,Transferência
+2025-01-31,2025,Janeiro,5,Despesa Extra,Despesa,,0.00,250.00,Dinheiro
+
+2025-02-02,2025,Fevereiro,1,Tomate,Legume,15,1400.00,0.00,Cartão
+2025-02-02,2025,Fevereiro,1,Couve,Verdura,12,900.00,0.00,PIX
+2025-02-09,2025,Fevereiro,2,Macarrão,Mercadoria,12,1800.00,0.00,PIX
+2025-02-09,2025,Fevereiro,2,Espinafre,Verdura,14,950.00,0.00,Dinheiro
+2025-02-16,2025,Fevereiro,3,Cloro,Limpeza,5,900.00,0.00,Dinheiro
+2025-02-16,2025,Fevereiro,3,Abobrinha,Legume,18,1100.00,0.00,Cartão
+2025-02-23,2025,Fevereiro,4,Suco,Bebida,20,1200.00,0.00,Cartão
+2025-02-23,2025,Fevereiro,4,Chá Gelado,Bebida,22,950.00,0.00,PIX
+2025-02-28,2025,Fevereiro,4,Aluguel,Despesa,,0.00,1700.00,Transferência
+2025-02-28,2025,Fevereiro,4,Água,Despesa,,0.00,210.00,PIX
+2025-02-28,2025,Fevereiro,4,Energia,Despesa,,0.00,420.00,PIX
+2025-02-28,2025,Fevereiro,4,Internet,Despesa,,0.00,150.00,PIX
+2025-02-28,2025,Fevereiro,4,Salários,Despesa,,0.00,2700.00,Transferência
+2025-02-28,2025,Fevereiro,4,Despesa Extra,Despesa,,0.00,240.00,Dinheiro
+
+2025-03-02,2025,Março,1,Maçã,Fruta,25,1600.00,0.00,PIX
+2025-03-02,2025,Março,1,Rúcula,Verdura,12,850.00,0.00,Cartão
+2025-03-09,2025,Março,2,Óleo,Mercadoria,10,2000.00,0.00,Cartão
+2025-03-09,2025,Março,2,Pepino,Legume,20,1100.00,0.00,PIX
+2025-03-16,2025,Março,3,Vassoura,Limpeza,3,800.00,0.00,Dinheiro
+2025-03-16,2025,Março,3,Espinafre,Verdura,15,950.00,0.00,PIX
+2025-03-23,2025,Março,4,Coca-Cola,Bebida,12,1200.00,0.00,PIX
+2025-03-23,2025,Março,4,Suco Natural,Bebida,18,1300.00,0.00,Cartão
+2025-03-30,2025,Março,5,Paçoca,Doce,40,1000.00,0.00,Cartão
+2025-03-30,2025,Março,5,Chá Gelado,Bebida,20,950.00,0.00,Dinheiro
+2025-03-31,2025,Março,5,Aluguel,Despesa,,0.00,1800.00,Transferência
+2025-03-31,2025,Março,5,Água,Despesa,,0.00,220.00,PIX
+2025-03-31,2025,Março,5,Energia,Despesa,,0.00,450.00,PIX
+2025-03-31,2025,Março,5,Internet,Despesa,,0.00,150.00,PIX
+2025-03-31,2025,Março,5,Salários,Despesa,,0.00,2800.00,Transferência
+2025-03-31,2025,Março,5,Despesa Extra,Despesa,,0.00,250.00,Dinheiro
+
+2025-04-03,2025,Abril,1,Laranja,Fruta,25,1500.00,0.00,Dinheiro
+2025-04-03,2025,Abril,1,Couve,Verdura,14,950.00,0.00,PIX
+2025-04-10,2025,Abril,2,Uva,Fruta,20,1400.00,0.00,PIX
+2025-04-10,2025,Abril,2,Espinafre,Verdura,12,900.00,0.00,Cartão
+2025-04-17,2025,Abril,3,Alface,Verdura,12,1000.00,0.00,Cartão
+2025-04-17,2025,Abril,3,Batata,Legume,22,1200.00,0.00,Dinheiro
+2025-04-24,2025,Abril,4,Tomate,Legume,18,1600.00,0.00,PIX
+2025-04-24,2025,Abril,4,Suco Natural,Bebida,20,1200.00,0.00,Cartão
+2025-04-30,2025,Abril,5,Aluguel,Despesa,,0.00,1750.00,Transferência
+2025-04-30,2025,Abril,5,Água,Despesa,,0.00,210.00,PIX
+2025-04-30,2025,Abril,5,Energia,Despesa,,0.00,430.00,PIX
+2025-04-30,2025,Abril,5,Internet,Despesa,,0.00,150.00,PIX
+2025-04-30,2025,Abril,5,Salários,Despesa,,0.00,2750.00,Transferência
+2025-04-30,2025,Abril,5,Despesa Extra,Despesa,,0.00,240.00,Dinheiro
+
+2025-05-02,2025,Maio,1,Banana,Fruta,28,1600.00,0.00,PIX
+2025-05-02,2025,Maio,1,Rúcula,Verdura,14,950.00,0.00,Dinheiro
+2025-05-09,2025,Maio,2,Maçã,Fruta,35,1800.00,0.00,Cartão
+2025-05-09,2025,Maio,2,Espinafre,Verdura,12,900.00,0.00,PIX
+2025-05-16,2025,Maio,3,Cenoura,Legume,14,1200.00,0.00,Dinheiro
+2025-05-16,2025,Maio,3,Abobrinha,Legume,18,1100.00,0.00,Cartão
+2025-05-23,2025,Maio,4,Laranja,Fruta,30,1500.00,0.00,PIX
+2025-05-23,2025,Maio,4,Suco,Bebida,20,1200.00,0.00,Cartão
+2025-05-31,2025,Maio,5,Aluguel,Despesa,,0.00,1800.00,Transferência
+2025-05-31,2025,Maio,5,Água,Despesa,,0.00,220.00,PIX
+2025-05-31,2025,Maio,5,Energia,Despesa,,0.00,440.00,PIX
+2025-05-31,2025,Maio,5,Internet,Despesa,,0.00,150.00,PIX
+2025-05-31,2025,Maio,5,Salários,Despesa,,0.00,2800.00,Transferência
+2025-05-31,2025,Maio,5,Despesa Extra,Despesa,,0.00,250.00,Dinheiro
+
+2025-06-06,2025,Junho,1,Uva,Fruta,25,1500.00,0.00,Cartão
+2025-06-06,2025,Junho,1,Couve,Verdura,12,900.00,0.00,PIX
+2025-06-13,2025,Junho,2,Tomate,Legume,22,1600.00,0.00,PIX
+2025-06-13,2025,Junho,2,Espinafre,Verdura,14,950.00,0.00,Dinheiro
+2025-06-20,2025,Junho,3,Alface,Verdura,15,1200.00,0.00,Dinheiro
+2025-06-20,2025,Junho,3,Batata,Legume,20,1100.00,0.00,Cartão
+2025-06-27,2025,Junho,4,Banana,Fruta,30,1400.00,0.00,PIX
+2025-06-27,2025,Junho,4,Suco Natural,Bebida,18,1200.00,0.00,Cartão
+2025-06-30,2025,Junho,5,Aluguel,Despesa,,0.00,1800.00,Transferência
+2025-06-30,2025,Junho,5,Água,Despesa,,0.00,220.00,PIX
+2025-06-30,2025,Junho,5,Energia,Despesa,,0.00,450.00,PIX
+2025-06-30,2025,Junho,5,Internet,Despesa,,0.00,150.00,PIX
+2025-06-30,2025,Junho,5,Salários,Despesa,,0.00,2800.00,Transferência
+2025-06-30,2025,Junho,5,Despesa Extra,Despesa,,0.00,250.00,Dinheiro
+
+2025-07-04,2025,Julho,1,Maçã,Fruta,28,1600.00,0.00,Cartão
+2025-07-04,2025,Julho,1,Couve,Verdura,14,950.00,0.00,PIX
+2025-07-11,2025,Julho,2,Laranja,Fruta,32,1700.00,0.00,PIX
+2025-07-11,2025,Julho,2,Espinafre,Verdura,12,900.00,0.00,Dinheiro
+2025-07-18,2025,Julho,3,Cenoura,Legume,18,1200.00,0.00,Dinheiro
+2025-07-18,2025,Julho,3,Abobrinha,Legume,20,1100.00,0.00,Cartão
+2025-07-25,2025,Julho,4,Uva,Fruta,20,1400.00,0.00,PIX
+2025-07-25,2025,Julho,4,Suco Natural,Bebida,22,1250.00,0.00,Cartão
+2025-07-31,2025,Julho,5,Aluguel,Despesa,,0.00,1850.00,Transferência
+2025-07-31,2025,Julho,5,Água,Despesa,,0.00,220.00,PIX
+2025-07-31,2025,Julho,5,Energia,Despesa,,0.00,460.00,PIX
+2025-07-31,2025,Julho,5,Internet,Despesa,,0.00,150.00,PIX
+2025-07-31,2025,Julho,5,Salários,Despesa,,0.00,2850.00,Transferência
+2025-07-31,2025,Julho,5,Despesa Extra,Despesa,,0.00,250.00,Dinheiro
+
+2025-08-01,2025,Agosto,1,Banana,Fruta,25,1500.00,0.00,PIX
+2025-08-01,2025,Agosto,1,Rúcula,Verdura,12,850.00,0.00,Dinheiro
+2025-08-08,2025,Agosto,2,Tomate,Legume,20,1600.00,0.00,Cartão
+2025-08-08,2025,Agosto,2,Espinafre,Verdura,14,950.00,0.00,PIX
+2025-08-15,2025,Agosto,3,Alface,Verdura,15,1200.00,0.00,Dinheiro
+2025-08-15,2025,Agosto,3,Batata,Legume,22,1100.00,0.00,Cartão
+2025-08-22,2025,Agosto,4,Maçã,Fruta,30,1700.00,0.00,PIX
+2025-08-22,2025,Agosto,4,Chá Gelado,Bebida,20,950.00,0.00,Cartão
+2025-08-31,2025,Agosto,5,Aluguel,Despesa,,0.00,1850.00,Transferência
+2025-08-31,2025,Agosto,5,Água,Despesa,,0.00,220.00,PIX
+2025-08-31,2025,Agosto,5,Energia,Despesa,,0.00,460.00,PIX
+2025-08-31,2025,Agosto,5,Internet,Despesa,,0.00,150.00,PIX
+2025-08-31,2025,Agosto,5,Salários,Despesa,,0.00,2850.00,Transferência
+2025-08-31,2025,Agosto,5,Despesa Extra,Despesa,,0.00,250.00,Dinheiro
+
+2025-09-05,2025,Setembro,1,Laranja,Fruta,28,1600.00,0.00,PIX
+2025-09-05,2025,Setembro,1,Couve,Verdura,14,950.00,0.00,Cartão
+2025-09-12,2025,Setembro,2,Uva,Fruta,22,1500.00,0.00,Cartão
+2025-09-12,2025,Setembro,2,Espinafre,Verdura,12,900.00,0.00,PIX
+2025-09-19,2025,Setembro,3,Cenoura,Legume,16,1200.00,0.00,Dinheiro
+2025-09-19,2025,Setembro,3,Abobrinha,Legume,20,1100.00,0.00,Cartão
+2025-09-26,2025,Setembro,4,Banana,Fruta,30,1400.00,0.00,PIX
+2025-09-26,2025,Setembro,4,Suco Natural,Bebida,18,1200.00,0.00,Cartão
+2025-09-30,2025,Setembro,5,Aluguel,Despesa,,0.00,1850.00,Transferência
+2025-09-30,2025,Setembro,5,Água,Despesa,,0.00,220.00,PIX
+2025-09-30,2025,Setembro,5,Energia,Despesa,,0.00,460.00,PIX
+2025-09-30,2025,Setembro,5,Internet,Despesa,,0.00,150.00,PIX
+2025-09-30,2025,Setembro,5,Salários,Despesa,,0.00,2850.00,Transferência
+2025-09-30,2025,Setembro,5,Despesa Extra,Despesa,,0.00,250.00,Dinheiro
+
+2025-10-03,2025,Outubro,1,Tomate,Legume,25,1700.00,0.00,Cartão
+2025-10-03,2025,Outubro,1,Rúcula,Verdura,12,850.00,0.00,PIX
+2025-10-10,2025,Outubro,2,Maçã,Fruta,28,1600.00,0.00,PIX
+2025-10-10,2025,Outubro,2,Espinafre,Verdura,14,950.00,0.00,Dinheiro
+2025-10-17,2025,Outubro,3,Laranja,Fruta,30,1700.00,0.00,Dinheiro
+2025-10-17,2025,Outubro,3,Batata,Legume,22,1100.00,0.00,Cartão
+2025-10-24,2025,Outubro,4,Uva,Fruta,20,1500.00,0.00,PIX
+2025-10-24,2025,Outubro,4,Chá Gelado,Bebida,20,950.00,0.00,Cartão
+2025-10-31,2025,Outubro,5,Aluguel,Despesa,,0.00,1900.00,Transferência
+2025-10-31,2025,Outubro,5,Água,Despesa,,0.00,220.00,PIX
+2025-10-31,2025,Outubro,5,Energia,Despesa,,0.00,470.00,PIX
+2025-10-31,2025,Outubro,5,Internet,Despesa,,0.00,150.00,PIX
+2025-10-31,2025,Outubro,5,Salários,Despesa,,0.00,2900.00,Transferência
+2025-10-31,2025,Outubro,5,Despesa Extra,Despesa,,0.00,250.00,Dinheiro
+
+2025-11-07,2025,Novembro,1,Banana,Fruta,25,1500.00,0.00,PIX
+2025-11-07,2025,Novembro,1,Couve,Verdura,14,950.00,0.00,Dinheiro
+2025-11-14,2025,Novembro,2,Tomate,Legume,22,1600.00,0.00,Cartão
+2025-11-14,2025,Novembro,2,Espinafre,Verdura,12,900.00,0.00,PIX
+2025-11-21,2025,Novembro,3,Alface,Verdura,15,1200.00,0.00,Dinheiro
+2025-11-21,2025,Novembro,3,Batata,Legume,20,1100.00,0.00,Cartão
+2025-11-28,2025,Novembro,4,Maçã,Fruta,30,1700.00,0.00,PIX
+2025-11-28,2025,Novembro,4,Suco Natural,Bebida,20,1200.00,0.00,Cartão
+2025-11-30,2025,Novembro,5,Aluguel,Despesa,,0.00,1900.00,Transferência
+2025-11-30,2025,Novembro,5,Água,Despesa,,0.00,220.00,PIX
+2025-11-30,2025,Novembro,5,Energia,Despesa,,0.00,470.00,PIX
+2025-11-30,2025,Novembro,5,Internet,Despesa,,0.00,150.00,PIX
+2025-11-30,2025,Novembro,5,Salários,Despesa,,0.00,2900.00,Transferência
+2025-11-30,2025,Novembro,5,Despesa Extra,Despesa,,0.00,250.00,Dinheiro
+
+2025-12-05,2025,Dezembro,1,Laranja,Fruta,35,1800.00,0.00,PIX
+2025-12-05,2025,Dezembro,1,Rúcula,Verdura,12,850.00,0.00,Cartão
+2025-12-12,2025,Dezembro,2,Uva,Fruta,25,1600.00,0.00,Cartão
+2025-12-12,2025,Dezembro,2,Espinafre,Verdura,14,950.00,0.00,PIX
+2025-12-19,2025,Dezembro,3,Cenoura,Legume,18,1200.00,0.00,Dinheiro
+2025-12-19,2025,Dezembro,3,Abobrinha,Legume,20,1100.00,0.00,Cartão
+2025-12-26,2025,Dezembro,4,Banana,Fruta,40,1700.00,0.00,PIX
+2025-12-26,2025,Dezembro,4,Chá Gelado,Bebida,22,950.00,0.00,Dinheiro
+2025-12-31,2025,Dezembro,5,Aluguel,Despesa,,0.00,200.00,Transferência
+2025-12-31,2025,Dezembro,5,Água,Despesa,,0.00,30.00,PIX
+2025-12-31,2025,Dezembro,5,Energia,Despesa,,0.00,80.00,PIX
+2025-12-31,2025,Dezembro,5,Internet,Despesa,,0.00,50.00,PIX
+2025-12-31,2025,Dezembro,5,Salários,Despesa,,0.00,1400.00,Transferência
+2025-12-31,2025,Dezembro,5,Despesa Extra,Despesa,,0.00,100.00,Dinheiro
